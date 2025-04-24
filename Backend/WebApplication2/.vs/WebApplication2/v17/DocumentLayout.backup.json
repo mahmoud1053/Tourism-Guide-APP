@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\entities\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:entities\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\entities\\program_places.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:entities\\program_places.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\controllers\\programplacescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:controllers\\programplacescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\contexts\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:contexts\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\webapplication2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:webapplication2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\configurations\\program_places_configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:configurations\\program_places_configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\configurations\\program_configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:configurations\\program_configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\configurations\\user_configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:configurations\\user_configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\migrations\\20250118123204_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:migrations\\20250118123204_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication2\\Migrations\\20250118122758_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\tourism guide app\\backend\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26858365-C7AD-41E9-9B87-68A4DE2F92BA}|WebApplication2.csproj|solutionrelative:webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Contexts\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Contexts\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Contexts\\DbSeeder.cs",
+              "RelativeToolTip": "Contexts\\DbSeeder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:43:37.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User_Configurations.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Configurations\\User_Configurations.cs",
+              "RelativeDocumentMoniker": "Configurations\\User_Configurations.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Configurations\\User_Configurations.cs",
+              "RelativeToolTip": "Configurations\\User_Configurations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:38:24.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:40:54.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program_Places.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Entities\\Program_Places.cs",
+              "RelativeDocumentMoniker": "Entities\\Program_Places.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Entities\\Program_Places.cs",
+              "RelativeToolTip": "Entities\\Program_Places.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:12:48.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:55:42.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program_Configurations.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Configurations\\Program_Configurations.cs",
+              "RelativeDocumentMoniker": "Configurations\\Program_Configurations.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Configurations\\Program_Configurations.cs",
+              "RelativeToolTip": "Configurations\\Program_Configurations.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:16:49.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProgramPlacesController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Controllers\\ProgramPlacesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProgramPlacesController.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Controllers\\ProgramPlacesController.cs",
+              "RelativeToolTip": "Controllers\\ProgramPlacesController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:17:55.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramsController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Controllers\\ProgramsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProgramsController.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Controllers\\ProgramsController.cs",
+              "RelativeToolTip": "Controllers\\ProgramsController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:27:17.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programs.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Entities\\Programs.cs",
+              "RelativeDocumentMoniker": "Entities\\Programs.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Entities\\Programs.cs",
+              "RelativeToolTip": "Entities\\Programs.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:40:52.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:59:25.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApplication2.http",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\WebApplication2.http",
+              "RelativeDocumentMoniker": "WebApplication2.http",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\WebApplication2.http",
+              "RelativeToolTip": "WebApplication2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-23T13:57:18.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T13:57:28.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program_Places_Configurations.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Configurations\\Program_Places_Configurations.cs",
+              "RelativeDocumentMoniker": "Configurations\\Program_Places_Configurations.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Configurations\\Program_Places_Configurations.cs",
+              "RelativeToolTip": "Configurations\\Program_Places_Configurations.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:46:31.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T11:59:37.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:19:21.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250118122758_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication2\\Migrations\\20250118122758_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Graduation Project\\WebApplication2\\Migrations\\20250118122758_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication2\\Migrations\\20250118122758_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Graduation Project\\WebApplication2\\Migrations\\20250118122758_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:27:58.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250118123204_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Migrations\\20250118123204_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250118123204_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\Migrations\\20250118123204_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250118123204_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:32:04.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\Tourism Guide APP\\Backend\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T19:40:55.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

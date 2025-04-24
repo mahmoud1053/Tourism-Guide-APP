@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Program Details</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+  <div class="container my-5">
+    <h1 class="mb-4" id="programName">Loading...</h1>
+    <div id="programDetails" class="mb-4"></div>
+    <h3>Places Included:</h3>
+    <ul class="list-group" id="placesList"></ul>
+  </div>
+
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const programId = urlParams.get('id');
+
+    if (!programId) {
+      document.body.innerHTML = "<h2>Program ID not provided in URL.</h2>";
+    } else {
+      fetch(`http://localhost:5031/api/programs/${programId}`)
+        .then(response => response.json())
+        .then(program => {
+          document.getElementById('programName').textContent = program.name;
+
+          document.getElementById('programDetails').innerHTML = `
+            <p><strong>Price:</strong> $${program.price.toFixed(2)}</p>
+            <p><strong>Duration:</strong> ${program.day} days, ${program.night} nights</p>
+            <p><strong>Rating:</strong> ${program.rating}/5</p>
+          `;
+        });
+
+      fetch(`http://localhost:5031/api/programplaces`)
+        .then(response => response.json())
+        .then(places => {
+          const filtered = places.filter(p => p.program_Id == programId);
+          const list = document.getElementById('placesList');
+          filtered.forEach(place => {
+            const li = document.createElement('li');
+            li.classList.add('list-group-item');
+            li.textContent = place.name;
+            list.appendChild(li);
+          });
+        });
+    }
+  </script>
+</body>
+</html>
